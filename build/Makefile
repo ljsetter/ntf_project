@@ -123,32 +123,32 @@ NTF/fast:
 	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/build
 .PHONY : NTF/fast
 
-src/other.o: src/other.cpp.o
+src/load_images.o: src/load_images.cpp.o
 
-.PHONY : src/other.o
+.PHONY : src/load_images.o
 
 # target to build an object file
-src/other.cpp.o:
-	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/other.cpp.o
-.PHONY : src/other.cpp.o
+src/load_images.cpp.o:
+	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/load_images.cpp.o
+.PHONY : src/load_images.cpp.o
 
-src/other.i: src/other.cpp.i
+src/load_images.i: src/load_images.cpp.i
 
-.PHONY : src/other.i
+.PHONY : src/load_images.i
 
 # target to preprocess a source file
-src/other.cpp.i:
-	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/other.cpp.i
-.PHONY : src/other.cpp.i
+src/load_images.cpp.i:
+	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/load_images.cpp.i
+.PHONY : src/load_images.cpp.i
 
-src/other.s: src/other.cpp.s
+src/load_images.s: src/load_images.cpp.s
 
-.PHONY : src/other.s
+.PHONY : src/load_images.s
 
 # target to generate assembly for a file
-src/other.cpp.s:
-	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/other.cpp.s
-.PHONY : src/other.cpp.s
+src/load_images.cpp.s:
+	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/load_images.cpp.s
+.PHONY : src/load_images.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... NTF"
 	@echo "... edit_cache"
-	@echo "... src/other.o"
-	@echo "... src/other.i"
-	@echo "... src/other.s"
+	@echo "... src/load_images.o"
+	@echo "... src/load_images.i"
+	@echo "... src/load_images.s"
 .PHONY : help
 
 

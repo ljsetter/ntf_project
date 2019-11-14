@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/NTF.dir/src/other.cpp.o"
+  "CMakeFiles/NTF.dir/src/load_images.cpp.o"
   "NTF.pdb"
   "NTF"
 )

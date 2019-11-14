@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/other.cpp" "/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles/NTF.dir/src/other.cpp.o"
+  "/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/load_images.cpp" "/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles/NTF.dir/src/load_images.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

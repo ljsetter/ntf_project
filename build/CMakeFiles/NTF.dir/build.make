@@ -57,38 +57,38 @@ include CMakeFiles/NTF.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/NTF.dir/flags.make
 
-CMakeFiles/NTF.dir/src/other.cpp.o: CMakeFiles/NTF.dir/flags.make
-CMakeFiles/NTF.dir/src/other.cpp.o: ../src/other.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NTF.dir/src/other.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NTF.dir/src/other.cpp.o -c /home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/other.cpp
+CMakeFiles/NTF.dir/src/load_images.cpp.o: CMakeFiles/NTF.dir/flags.make
+CMakeFiles/NTF.dir/src/load_images.cpp.o: ../src/load_images.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/NTF.dir/src/load_images.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/NTF.dir/src/load_images.cpp.o -c /home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/load_images.cpp
 
-CMakeFiles/NTF.dir/src/other.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NTF.dir/src/other.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/other.cpp > CMakeFiles/NTF.dir/src/other.cpp.i
+CMakeFiles/NTF.dir/src/load_images.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/NTF.dir/src/load_images.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/load_images.cpp > CMakeFiles/NTF.dir/src/load_images.cpp.i
 
-CMakeFiles/NTF.dir/src/other.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NTF.dir/src/other.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/other.cpp -o CMakeFiles/NTF.dir/src/other.cpp.s
+CMakeFiles/NTF.dir/src/load_images.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/NTF.dir/src/load_images.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/load_images.cpp -o CMakeFiles/NTF.dir/src/load_images.cpp.s
 
-CMakeFiles/NTF.dir/src/other.cpp.o.requires:
+CMakeFiles/NTF.dir/src/load_images.cpp.o.requires:
 
-.PHONY : CMakeFiles/NTF.dir/src/other.cpp.o.requires
+.PHONY : CMakeFiles/NTF.dir/src/load_images.cpp.o.requires
 
-CMakeFiles/NTF.dir/src/other.cpp.o.provides: CMakeFiles/NTF.dir/src/other.cpp.o.requires
-	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/other.cpp.o.provides.build
-.PHONY : CMakeFiles/NTF.dir/src/other.cpp.o.provides
+CMakeFiles/NTF.dir/src/load_images.cpp.o.provides: CMakeFiles/NTF.dir/src/load_images.cpp.o.requires
+	$(MAKE) -f CMakeFiles/NTF.dir/build.make CMakeFiles/NTF.dir/src/load_images.cpp.o.provides.build
+.PHONY : CMakeFiles/NTF.dir/src/load_images.cpp.o.provides
 
-CMakeFiles/NTF.dir/src/other.cpp.o.provides.build: CMakeFiles/NTF.dir/src/other.cpp.o
+CMakeFiles/NTF.dir/src/load_images.cpp.o.provides.build: CMakeFiles/NTF.dir/src/load_images.cpp.o
 
 
 # Object files for target NTF
 NTF_OBJECTS = \
-"CMakeFiles/NTF.dir/src/other.cpp.o"
+"CMakeFiles/NTF.dir/src/load_images.cpp.o"
 
 # External object files for target NTF
 NTF_EXTERNAL_OBJECTS =
 
-NTF: CMakeFiles/NTF.dir/src/other.cpp.o
+NTF: CMakeFiles/NTF.dir/src/load_images.cpp.o
 NTF: CMakeFiles/NTF.dir/build.make
 NTF: ../lib/libarmadillo.so.9.800.2
 NTF: ../lib/libopenblas.a
@@ -108,7 +108,7 @@ CMakeFiles/NTF.dir/build: NTF
 
 .PHONY : CMakeFiles/NTF.dir/build
 
-CMakeFiles/NTF.dir/requires: CMakeFiles/NTF.dir/src/other.cpp.o.requires
+CMakeFiles/NTF.dir/requires: CMakeFiles/NTF.dir/src/load_images.cpp.o.requires
 
 .PHONY : CMakeFiles/NTF.dir/requires
 

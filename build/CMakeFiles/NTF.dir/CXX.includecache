@@ -2370,9 +2370,13 @@ hdf5.h
 
 ../include/armadillo_bits/xvec_htrans_meat.hpp
 
-/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/other.cpp
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/src/load_images.cpp
+armadillo
+-
 iostream
 -
-armadillo
+string
+-
+cmath
 -
 
