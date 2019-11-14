@@ -1,0 +1,1 @@
+/usr/bin/gfortran     -Wall -frecursive -m64 -fPIC CMakeFiles/xdcblat1.dir/c_dblat1.f.o CMakeFiles/xdcblat1.dir/c_dblas1.c.o  -o xdcblat1 ../lib/libopenblas.a -lpthread 

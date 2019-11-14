@@ -1,0 +1,7 @@
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/install/strip.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/edit_cache.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/armadillo.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/list_install_components.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/install/local.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/rebuild_cache.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/arma/build/CMakeFiles/install.dir

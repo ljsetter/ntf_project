@@ -1,0 +1,1 @@
+/usr/bin/gfortran     -Wall -frecursive -m64 -fPIC CMakeFiles/zblat3.dir/zblat3.f.o  -o zblat3 ../lib/libopenblas.a -lpthread 

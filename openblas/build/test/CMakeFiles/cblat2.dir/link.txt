@@ -1,0 +1,1 @@
+/usr/bin/gfortran     -Wall -frecursive -m64 -fPIC CMakeFiles/cblat2.dir/cblat2.f.o  -o cblat2 ../lib/libopenblas.a -lpthread 

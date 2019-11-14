@@ -1,0 +1,3 @@
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles/rebuild_cache.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles/NTF.dir
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/build/CMakeFiles/edit_cache.dir

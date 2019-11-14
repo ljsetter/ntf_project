@@ -1,0 +1,14 @@
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/lib/libopenblas.a
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/openblas_config.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/f77blas.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/cblas.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/lapacke_example_aux.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/lapacke.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/lapacke_config.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/lapacke_mangling.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/lapacke_utils.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/include/openblas/openblas/lapacke_mangling.h
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/share/cmake/OpenBLAS/OpenBLASConfig.cmake
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/share/cmake/OpenBLAS/OpenBLASConfigVersion.cmake
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/share/cmake/OpenBLAS/OpenBLASTargets.cmake
+/home/lewissetter/Documents/mines/high_performance_computing/ntf_project/share/cmake/OpenBLAS/OpenBLASTargets-noconfig.cmake
